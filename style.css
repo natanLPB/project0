@@ -1,3 +1,4 @@
+/*layout section*/
 header img
 {
 	width: 100%;
@@ -17,7 +18,7 @@ header h1
 #color_mask
 {
 	position: absolute;
-	opacity: 0.3;
+	opacity: 0.2;
 	border: 0;
 	z-index: 40;
   float: left;
@@ -42,6 +43,7 @@ header h1
 	top: 2.8em;
 	left: 9em;
 }
+/*end of the layout section*/
 
 /*index page section*/
 #about
@@ -67,8 +69,8 @@ span
 {
 	border: solid powderblue 1px;
 	font-weight: 400;
-	/*background-color: powderblue;*/
 }
+/*end of the index section*/
 
 /*books page section*/
 #warrior, #locked_heart, #great_masters, #liberty
@@ -85,3 +87,4 @@ span
 	display: block;
 	width: 80%;
 }
+/*end of the books section*/
