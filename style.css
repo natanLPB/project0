@@ -1,0 +1,64 @@
+header img
+{
+	width: 100%;
+}
+
+header h1
+{
+	font-weight: 600;
+	font-family: 'Dancing Script', cursive;
+	font-size: 6vw;
+	text-align: center;
+	width: auto;
+	position: absolute;
+	z-index: 41;
+}
+
+#color_mask
+{
+	position: absolute;
+	opacity: 0.2;
+	border: 0;
+	z-index: 40;
+  float: left;
+	padding: 0;
+	margin: 0;
+	width: 100%
+}
+
+#page_layout
+{
+	overflow: hidden;
+}
+
+#name
+{
+	top: 2.8em;
+	left: 4.5em;
+}
+
+#last_name
+{
+	top: 2.8em;
+	left: 9em;
+}
+
+/*main part of the home page*/
+#about
+{
+	margin-top: 3em;
+	text-align: justify;
+}
+
+span
+{
+	padding-left: 40px;
+}
+
+#valeria_img
+{
+	height: auto;
+	width: 100%;
+	float: right;
+	padding-top: 20%;
+}
