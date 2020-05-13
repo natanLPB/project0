@@ -1,3 +1,3 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+Web Programming Valéria's webpage in JavaScript
